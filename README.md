@@ -1,6 +1,10 @@
 # golor
 A go library for formatting the color of text output to a terminal
 
+Status:
+
+This library does work. However, I primarily use it just as a reference for all the ASCII color codes in other projects. I'm sure there are better terminal coloring libraries for Go available now, so I'd suggest using those over this one.
+
 # Usage
 
 `go get github.com/mhoc/golor`
